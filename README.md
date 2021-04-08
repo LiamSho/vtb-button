@@ -1,4 +1,6 @@
-<img alt="Gatsby" src="./docs/vtb-button.svg" height="240" />
+<div align="center">
+    <img alt="Gatsby" src="./docs/vtb-button.svg" height="240" />
+</div>
 
 <h1 align="center">
   VTB BUTTON
